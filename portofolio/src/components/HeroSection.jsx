@@ -27,7 +27,7 @@ function Section() {
           <img
             src={DataImage.HeroImage}
             alt="Section Image"
-            className="flex items-center mx-auto w-[400px] md:hidden mb-6"
+            className="flex items-center mx-auto w-[400px] md:hidden mb-6 "
           />
           <div className=" flex md:justify-start gap-5 justify-center">
             <div className="flex items-center gap-2 bg-green-600/30 p-2 rounded-2xl">

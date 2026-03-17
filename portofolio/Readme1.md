@@ -15,3 +15,5 @@ key. dipakai React untuk membedakan setiap element dalam list agar rendering leb
 loading="lazy". menunda pemuatan (load) gambar atau iframe sampai hampir terlihat di layar pengguna.
 noopener. Mencegah halaman baru mengontrol halaman asal.
 noreferrer. Tidak mengirim informasi asal website ke website tujuan.
+origin = alamat repository GitHub yang terhubung dengan project kamu
+fetch artinya mengambil update dari GitHub ke komputer kamu, Tapi perubahan itu belum masuk ke kode kamu, hanya di-download saja.
