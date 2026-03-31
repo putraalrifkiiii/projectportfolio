@@ -24,7 +24,7 @@ function Tools() {
               className="flex items-center gap-2 p-3 border rounded-md hover:bg-green-600/30 group"
               key={tool.id}
               data-aos="fade-up"
-              data-aos-duration="2000"
+              data-aos-duration="1000"
               data-aos-delay={tool.dad}
             >
               <img
