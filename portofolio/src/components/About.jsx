@@ -6,7 +6,7 @@ const About = () => {
       <div
         className="w-full md:w-3/4 lg:w-2/4 mx-auto p-7 bg-green-600/30 rounded-4xl"
         data-aos="fade-up"
-        data-aos-duration="2000"
+        data-aos-duration="1000"
       >
         <img
           src={DataImage.HeroImage}
