@@ -18,8 +18,8 @@ AOS.init();
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <PreLoader />
-    <div className=" container mx-auto ">
-      <div className="px-10">
+    <div className="container mx-auto ">
+      <div className="px-10 ">
         <Navbar />
         <Section />
         <About />
